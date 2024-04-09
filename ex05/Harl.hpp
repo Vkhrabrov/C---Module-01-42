@@ -6,7 +6,7 @@
 /*   By: vkhrabro <vkhrabro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/08 22:38:37 by vkhrabro          #+#    #+#             */
-/*   Updated: 2024/04/09 21:14:59 by vkhrabro         ###   ########.fr       */
+/*   Updated: 2024/04/09 22:29:33 by vkhrabro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,5 +28,9 @@ private:
     void warning(void);
     void error(void);
 };
+
+
+
+
 
 #endif
