@@ -6,7 +6,7 @@
 /*   By: vkhrabro <vkhrabro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/08 22:38:37 by vkhrabro          #+#    #+#             */
-/*   Updated: 2024/04/09 22:29:33 by vkhrabro         ###   ########.fr       */
+/*   Updated: 2024/04/11 20:29:18 by vkhrabro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,8 +18,6 @@
 
 class Harl {
 public:
-	Harl();
-	~Harl();
 	void complain(std::string level);
 	
 private:
@@ -28,9 +26,5 @@ private:
     void warning(void);
     void error(void);
 };
-
-
-
-
 
 #endif
